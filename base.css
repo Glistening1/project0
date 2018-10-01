@@ -1,0 +1,80 @@
+.navbar {
+    background-color: #2C3531;
+    border-color: #2C3531;
+    background-repeat: no-repeat;
+}
+
+.nav.navbar-nav a {
+    color: #D9B08C !important;
+    font-size: 130%;
+}
+
+nav a:hover {
+    font-size: 140%  !important;
+    font-weight: bold !important;
+}
+
+.nav.navbar-nav li.current_nav a {
+    color: #FFCB9A !important;
+}
+
+a, a:hover, a:visited {
+    color: #D9B08C;
+    font-weight: bold;
+}
+
+h2 { 
+    font-size: 300%; 
+    color: #D9B08C !important;
+}
+
+h3 { 
+    font-size: 160%; 
+    color: #D9B08C !important;
+}
+
+p {
+    font-size: 120%;
+    color: #D1E8E2 !important;
+}
+
+p.my_padding {
+    padding: 0 40px 0 30px;
+    text-align: justify;
+    color: #D1E8E2 !important;
+}
+
+div.c-wrapper{
+    width: 25%;
+    height: 25%;
+    margin: auto;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    width: 75%;
+    height: 75%;
+    margin: auto;
+}
+
+#BackgroundColor {
+    background-color: #116466;
+}
+
+.table.table-bordered {
+    background-color: #2C3531;
+    color: #D1E8E2;
+}
+
+.table.table-bordered tr.head th {
+    color: #D9B08C;
+    font-weight: bold;
+}
+
+.thumbnail {
+    background-color: #2C3531;
+}
+
+.jumbotron {
+    background-color: #2C3531;
+    height: 250px;
+}
